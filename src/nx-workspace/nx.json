@@ -1,0 +1,33 @@
+{
+  "npmScope": "verval",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "ng-sidebar": {
+      "tags": []
+    },
+    "ng-sidebar-e2e": {
+      "tags": []
+    },
+    "sidenav": {
+      "tags": []
+    },
+    "demo": {
+      "tags": []
+    },
+    "demo-e2e": {
+      "tags": []
+    },
+    "demo2": {
+      "tags": []
+    },
+    "demo2-e2e": {
+      "tags": []
+    }
+  }
+}

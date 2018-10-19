@@ -1,0 +1,20 @@
+{
+  "name": "sidenav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundles/sidenav.umd.js",
+  "author": "",
+  "license": "MIT",
+  "module": "fesm5/sidenav.js",
+  "es2015": "fesm2015/sidenav.js",
+  "esm5": "esm5/sidenav.js",
+  "esm2015": "esm2015/sidenav.js",
+  "fesm5": "fesm5/sidenav.js",
+  "fesm2015": "fesm2015/sidenav.js",
+  "typings": "sidenav.d.ts",
+  "metadata": "sidenav.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
